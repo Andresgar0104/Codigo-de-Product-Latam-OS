@@ -15,7 +15,7 @@ import {
 } from "@dnd-kit/core";
 
 export const Route = createFileRoute("/tareas")({
-  head: () => ({ meta: [{ title: "Tareas · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Tareas · Latam Leap" }] }),
   component: TareasPage,
 });
 

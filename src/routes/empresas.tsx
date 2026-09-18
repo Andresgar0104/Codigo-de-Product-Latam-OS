@@ -12,7 +12,7 @@ import {
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 
 export const Route = createFileRoute("/empresas")({
-  head: () => ({ meta: [{ title: "Empresas · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Empresas · Latam Leap" }] }),
   component: EmpresasPage,
 });
 

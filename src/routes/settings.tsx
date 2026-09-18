@@ -11,7 +11,7 @@ import {
 import { Copy, Check } from "lucide-react";
 
 export const Route = createFileRoute("/settings")({
-  head: () => ({ meta: [{ title: "Settings · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Settings · Latam Leap" }] }),
   component: SettingsPage,
 });
 

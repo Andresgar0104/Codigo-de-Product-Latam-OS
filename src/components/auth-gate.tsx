@@ -51,7 +51,7 @@ function LoginScreen() {
         className="w-full max-w-sm rounded-lg border border-border bg-card p-6 space-y-4 shadow-sm"
       >
         <div className="text-center space-y-1">
-          <div className="text-2xl font-bold tracking-tight">Taltics</div>
+          <div className="text-2xl font-bold tracking-tight">Latam Leap</div>
           <div className="text-[12px] text-muted-foreground">GTM OS for LATAM</div>
         </div>
         <div className="space-y-2">

@@ -10,7 +10,7 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogFooter, DialogD
 import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 
 export const Route = createFileRoute("/venues")({
-  head: () => ({ meta: [{ title: "Venues · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Venues · Latam Leap" }] }),
   component: VenuesPage,
 });
 

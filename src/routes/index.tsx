@@ -9,7 +9,7 @@ import { parseDueDate } from "@/lib/tasks";
 import { cn } from "@/lib/utils";
 
 export const Route = createFileRoute("/")({
-  head: () => ({ meta: [{ title: "Dashboard · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Dashboard · Latam Leap" }] }),
   component: Dashboard,
 });
 

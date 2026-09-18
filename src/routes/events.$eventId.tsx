@@ -19,7 +19,7 @@ import { EventFormDialog } from "@/components/event-form-dialog";
 
 
 export const Route = createFileRoute("/events/$eventId")({
-  head: () => ({ meta: [{ title: "Event · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Event · Latam Leap" }] }),
   component: EventDetail,
   notFoundComponent: () => <AppShell><div className="p-6 text-muted-foreground">Event not found.</div></AppShell>,
 });

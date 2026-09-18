@@ -51,7 +51,7 @@ function useIsLargeScreen() {
 
 
 export const Route = createFileRoute("/contacts")({
-  head: () => ({ meta: [{ title: "Contacts · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Contacts · Latam Leap" }] }),
   component: Contacts,
 });
 

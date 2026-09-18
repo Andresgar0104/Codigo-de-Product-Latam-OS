@@ -58,7 +58,7 @@ const STAGE_DOT: Record<Stage, string> = {
 };
 
 export const Route = createFileRoute("/pipeline")({
-  head: () => ({ meta: [{ title: "Pipeline · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Pipeline · Latam Leap" }] }),
   component: Pipeline,
 });
 

@@ -12,7 +12,7 @@ import {
 } from "@/components/ui/dropdown-menu";
 
 export const Route = createFileRoute("/events/")({
-  head: () => ({ meta: [{ title: "Events · Taltics" }] }),
+  head: () => ({ meta: [{ title: "Events · Latam Leap" }] }),
   component: Events,
 });
 

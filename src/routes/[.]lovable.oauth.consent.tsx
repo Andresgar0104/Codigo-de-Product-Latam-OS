@@ -87,10 +87,10 @@ function Consent() {
     <main className="flex min-h-screen items-center justify-center bg-background px-4 py-10">
       <div className="w-full max-w-md rounded-lg border border-border bg-card p-6 shadow-sm">
         <h1 className="text-xl font-semibold tracking-tight text-foreground">
-          Connect {clientName} to Taltics
+          Connect {clientName} to Latam Leap
         </h1>
         <p className="mt-2 text-sm text-muted-foreground">
-          This lets {clientName} use Taltics as you. It can read and act on the same
+          This lets {clientName} use Latam Leap as you. It can read and act on the same
           accounts, contacts, companies, pipeline deals, events, and tasks you can — nothing
           more. Your app permissions and backend policies still apply.
         </p>
